@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../source/logo_orboto_letter_white.svg">
-    <source media="(prefers-color-scheme: light)" srcset="../source/logo_orboto_letter.svg">
-    <img alt="Orboto" src="../source/logo_orboto_letter.svg" height="80">
+    <source media="(prefers-color-scheme: dark)" srcset="../source/logo_orboto_dot_white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="../source/logo_orboto_dot.svg">
+    <img alt="Orboto" src="../source/logo_orboto_dot.svg" height="80">
   </picture>
 </p>
 
