@@ -12,9 +12,8 @@
 
 <p align="center">
   <a href="https://orboto.io">Website</a> ·
-  <a href="https://orboto.io/docs">Documentation</a> ·
-  <a href="https://orboto.io/changelog">Changelog</a> ·
-  <a href="https://orboto.io/contact">Contact</a>
+  <a href="https://orboto.io/waitlist">Join the Waitlist</a> ·
+  <a href="https://x.com/orboto_io">@orboto_io</a>
 </p>
 
 ---
