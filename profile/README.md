@@ -1,4 +1,10 @@
-<h1 align="center">Orboto</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="../source/logo_orboto_letter_white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="../source/logo_orboto_letter.svg">
+    <img alt="Orboto" src="../source/logo_orboto_letter.svg" height="80">
+  </picture>
+</p>
 
 <p align="center">
   <strong>Enterprise Ticket &amp; Project Management — API-first, real-time, AI-native.</strong>
