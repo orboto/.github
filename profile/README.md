@@ -1,9 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../source/logo_orboto_dot_white.svg">
-    <source media="(prefers-color-scheme: light)" srcset="../source/logo_orboto_dot.svg">
-    <img alt="Orboto" src="../source/logo_orboto_dot.svg" height="80">
-  </picture>
+  <img alt="Orboto" src="https://raw.githubusercontent.com/Orboto/.github/main/source/logo_orboto_dot_white.svg" height="80">
 </p>
 
 <p align="center">
